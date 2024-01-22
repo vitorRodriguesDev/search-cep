@@ -8,6 +8,8 @@ CEP Search is a simple, fully functional project so you can locate your city's z
 
 https://github.com/vitorRodriguesDev/search-cep/blob/master/assets/20240121192350.png
 
+![Demo App](https://github.com/vitorRodriguesDev/search-cep/blob/master/assets/20240121192350.png)
+
 ## Getting Started
 
 To get started with Search Cep, follow these steps:
