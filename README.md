@@ -2,11 +2,9 @@
 
 CEP Search is a simple, fully functional project so you can locate your city's zip code quickly.
 
-**test now:** 
+**test now:** https://search-cep-ten.vercel.app
 
 ## Demo
-
-https://github.com/vitorRodriguesDev/search-cep/blob/master/assets/20240121192350.png
 
 ![Demo App](https://github.com/vitorRodriguesDev/search-cep/blob/master/assets/20240121192350.png)
 
