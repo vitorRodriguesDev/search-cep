@@ -6,8 +6,7 @@ CEP Search is a simple, fully functional project so you can locate your city's z
 
 ## Demo
 
-https://github.com/vitorRodriguesDev/search-cep/assets/20240121192350.png
-
+https://github.com/vitorRodriguesDev/search-cep/blob/master/assets/20240121192350.png
 
 ## Getting Started
 
