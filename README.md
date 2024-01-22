@@ -1,6 +1,6 @@
 ## Search Cep
 
-Search Cep is a simple, fully functional project so you can locate your city's zip code quickly.
+the Search Cep is a simple, fully functional project so you can locate your city's zip code quickly.
 
 **test now:** https://search-cep-ten.vercel.app
 
